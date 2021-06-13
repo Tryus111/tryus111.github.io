@@ -59,7 +59,11 @@
         .jumbotron{
             background-image: url(background.jpg);
             background-size: cover;
-            height: 200px;
+            height: 400px;
+            text-align: center;
+        }
+        .jumbotron .display-4{
+            color: white;
         }
         
     </style>

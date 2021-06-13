@@ -56,6 +56,11 @@
         .content-body5{
             text-align: center;
         }
+        .jumbotron{
+            background-image: url(background.jpg);
+            background-size: cover;
+            height: 200px;
+        }
         
     </style>
     
